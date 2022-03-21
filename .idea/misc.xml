@@ -3,11 +3,66 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable-v24/ic_baseline_replay_by_bs.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/button_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/choose_buttom.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ctr_bg.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/fragment_bottom_sheet_output.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_replay_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_baseline_stop_24.xml" value="0.3828125" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2064814814814815" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/activity_main.xml" value="0.17475728155339806" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragment_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/layout_bg.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/drawable/simple_frame.xml" value="0.3828125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/activity_main.xml" value="0.40110650069156295" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/buttom_sheet.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/button_sheet.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragment_bottom_sheet2.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragment_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragment_item.xml" value="0.5668202764976958" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragment_item_list.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/test_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl1_bottom_sheet.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl1_bottom_sheet_output.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl2_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl2_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl3_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl3_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl4_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl4_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl5_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/fragmentl5_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l1_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l1_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l1_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l2_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l2_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l2_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l3_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l3_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l3_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l4_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l4_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l4_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l5_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l5_bottom_sheet_output.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/l5_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/layout_bottom.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.5" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/test_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/toolbar.xml" value="0.5" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/layout/toolbar_for_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/menu/action_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/menu/toolbar_menu.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.221875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/VisualPhysics10/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2175925925925926" />
       </map>
     </option>
   </component>

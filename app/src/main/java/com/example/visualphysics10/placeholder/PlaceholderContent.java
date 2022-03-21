@@ -1,32 +1,23 @@
 package com.example.visualphysics10.placeholder;
 
+import androidx.annotation.NonNull;
+
+import com.example.visualphysics10.R;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Helper class for providing sample content for user interfaces created by
- * Android template wizards.
- * <p>
- * TODO: Replace all uses of this class before publishing your app.
- */
 public class PlaceholderContent {
 
-    /**
-     * An array of sample (placeholder) items.
-     */
     public static final List<PlaceHolderItem> ITEMS = new ArrayList<PlaceHolderItem>();
 
-    /**
-     * A map of sample (placeholder) items, by ID.
-     */
     public static final Map<String, PlaceHolderItem> ITEM_MAP = new HashMap<String, PlaceHolderItem>();
 
-    private static final int COUNT = 11;
+    private static final int COUNT = 5;
 
     static {
-        // Add some sample items.
         for (int i = 1; i <= COUNT; i++) {
             addItem(createPlaceholderItem(i));
         }
@@ -38,42 +29,72 @@ public class PlaceholderContent {
     }
 
     private static PlaceHolderItem createPlaceholderItem(int position) {
-        return new PlaceHolderItem(String.valueOf(position), switchLesson(position) + position, makeDetails(position));
+        return new PlaceHolderItem(String.valueOf(position), switchLesson(position), switchDetails(position), switchImageView(position));
     }
+
+
+
 
     private static String switchLesson(int position) {
         switch (position){
             case 1:
-                return "Item 1";
+                return "Ускорение";
             case 2:
-                return "Item 2";
+                return "Движение по Окружности";
+            case 3:
+                return "II Закон Ньютона";
+            case 4:
+                return "Движение под углом к горизонту";
+            case 5:
+                return "Законы Сохранения Импульса";
             default: return "";
         }
     }
 
-    private static String makeDetails(int position) {
-        StringBuilder builder = new StringBuilder();
-        builder.append("Details about Item: ").append(position);
-        for (int i = 0; i < position; i++) {
-            builder.append("\nMore details information here.");
+    private static String switchDetails(int position) {
+        switch (position){
+            case 1:
+                return "Определение ускорения тела движущегося прямолинейно и равноускоренно или равнозамедленно";
+            case 2:
+                return "Определение центр  -  стремительного ускорения тела";
+            case 3:
+                return "Определение зависимости массы от ускорения тела";
+            case 4:
+                return "Определение проекции скорости тела, дальности и времени полета";
+            case 5:
+                return "Определение импульса тел";
+
+            default: return "";
         }
-        return builder.toString();
     }
 
-    /**
-     * A placeholder item representing a piece of content.
-     */
+
+     static int switchImageView(int position) {
+        switch (position){
+            case 1: return R.drawable.lesson_1;
+            case 2: return R.drawable.lesson_2;
+            case 3: return R.drawable.lesson_3;
+            case 4: return R.drawable.lesson_4;
+            case 5: return R.drawable.lesson_5;
+            default: return 0;
+        }
+    }
+
     public static class PlaceHolderItem {
         public final String id;
         public final String title;
         public final String details;
+        public final int imageView;
 
-        public PlaceHolderItem(String id, String content, String details) {
+
+        public PlaceHolderItem(String id, String content, String details, int imageView) {
             this.id = id;
             this.title = content;
             this.details = details;
+            this.imageView = imageView;
         }
 
+        @NonNull
         @Override
         public String toString() {
             return title;
